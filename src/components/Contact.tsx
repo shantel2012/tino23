@@ -43,8 +43,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-white">Email</h4>
-                  <a href="mailto:tinomudaishe.kutama@email.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
-                    tinomudaishe.kutama@email.com
+                  <a href="mailto:tinomudaishekutama2004@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
+                    tinomudaishekutama2004@gmail.com
                   </a>
                 </div>
               </div>
@@ -55,7 +55,7 @@ const Contact: React.FC = () => {
               <h4 className="font-medium text-white mb-4">Follow Me</h4>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/tinomudaishe"
+                  href="https://github.com/shantel2012"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group p-4 bg-white/5 hover:bg-cyan-400/20 border border-white/10 hover:border-cyan-400/30 rounded-lg transition-all duration-300 hover:transform hover:scale-105"
@@ -71,7 +71,7 @@ const Contact: React.FC = () => {
                   <Linkedin size={24} className="text-gray-400 group-hover:text-cyan-400 transition-colors" />
                 </a>
                 <a
-                  href="mailto:tinomudaishe.kutama@email.com"
+                  href="mailto:tinomudaishekutama2004@gmail.com"
                   className="group p-4 bg-white/5 hover:bg-cyan-400/20 border border-white/10 hover:border-cyan-400/30 rounded-lg transition-all duration-300 hover:transform hover:scale-105"
                 >
                   <Mail size={24} className="text-gray-400 group-hover:text-cyan-400 transition-colors" />
